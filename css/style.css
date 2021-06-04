@@ -101,6 +101,14 @@ img {
 }
 
 /* Top Box */
+.top-box {
+  background: var(--primary);
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
+}
 
 .top-box-a {
   grid-area: top-box-a;
