@@ -108,6 +108,7 @@ img {
   justify-content: center;
   box-shadow: var(--shadow);
   padding: 1.5rem;
+  text-align: center;
 }
 
 .top-box .price {
