@@ -88,6 +88,20 @@ img {
   box-shadow: var(--shadow);
 }
 
+.showcase h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+  color: var(--light);
+}
+
+.showcase p {
+  font-size: 1.3rem;
+  color: var(--light);
+  margin-top: 0;
+}
+
+/* Top Box */
+
 .top-box-a {
   grid-area: top-box-a;
 }
